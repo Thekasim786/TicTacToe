@@ -1,0 +1,28 @@
+^D:\FLUTTER PROJECTS\MULTIPLAYER-TICTACTOE\BUILD\WINDOWS\CMAKEFILES\69355AC0150D00D6E26CA5CA912AA212\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=D:\Flutter Projects\multiplayer-tictactoe" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=D:\Flutter Projects\multiplayer-tictactoe\windows\flutter\ephemeral" "PROJECT_DIR=D:\Flutter Projects\multiplayer-tictactoe" "FLUTTER_TARGET=D:\Flutter Projects\multiplayer-tictactoe\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=D:\Flutter Projects\multiplayer-tictactoe\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTER PROJECTS\MULTIPLAYER-TICTACTOE\BUILD\WINDOWS\CMAKEFILES\15E00F1FED6975B66DB226984A3A9B27\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\FLUTTER PROJECTS\MULTIPLAYER-TICTACTOE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/Flutter Projects/multiplayer-tictactoe/windows" "-BD:/Flutter Projects/multiplayer-tictactoe/build/windows" --check-stamp-file "D:/Flutter Projects/multiplayer-tictactoe/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

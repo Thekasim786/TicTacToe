@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Flutter Projects\multiplayer-tictactoe\build\windows\CMakeFiles\69355ac0150d00d6e26ca5ca912aa212\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Projects\multiplayer-tictactoe\build\windows\CMakeFiles\15e00f1fed6975b66db226984a3a9b27\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Flutter Projects\multiplayer-tictactoe\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Flutter Projects\multiplayer-tictactoe\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7DB5CEF8-61A5-3286-8047-F5AF36BDB2A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
