@@ -568,8 +568,8 @@ androidx.core.R$layout
 androidx.lifecycle.Transformations$2
 androidx.lifecycle.ReflectiveGenericLifecycleObserver:
     void <init>(java.lang.Object)
-kotlin.BuilderInference
 kotlinx.coroutines.flow.FlowKt__BuildersKt$asFlow$$inlined$unsafeFlow$7
+kotlin.BuilderInference
 kotlin.jdk7.AutoCloseableKt
 kotlinx.coroutines.internal.StackTraceRecoveryKt:
     public static final java.lang.Throwable recoverStackTrace(java.lang.Throwable,kotlin.coroutines.Continuation)
@@ -8528,6 +8528,6 @@ androidx.core.content.res.ResourcesCompat:
     private static final java.lang.ThreadLocal sTempTypedValue
     private static final java.util.WeakHashMap sColorStateCaches
     private static final java.lang.Object sColorStateCacheLock
-io.flutter.plugin.common.BinaryMessenger$-CC
 io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC
 io.flutter.plugin.platform.PlatformView$-CC
+io.flutter.plugin.common.BinaryMessenger$-CC
